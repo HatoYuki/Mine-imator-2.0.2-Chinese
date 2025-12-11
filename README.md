@@ -2,6 +2,10 @@
 中规中矩的汉化  
 假酒喝多chan在这里
 
+## 下载链接
++ [蓝奏云下载链接](https://wwrv.lanzouu.com/b00od3o5of)
+密码e1p9
+
 ## 译文文件
 ### Mine-imator-2.0.2-Simply-Upscale
 + [su_1.0.9.1](https://github.com/HatoYuki/Mine-imator-2.0.2-Chinese/blob/main/translations/Mine-imator-2.0.2-Simply-Upscaled-Build/su_1.0.9.1.milanguage)
